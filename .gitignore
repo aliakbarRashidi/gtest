@@ -1,0 +1,6 @@
+/msvc/*.user
+/msvc/*.filters
+/msvc/*.sdf
+/msvc/*.suo
+/msvc/2012
+/msvc/2010
