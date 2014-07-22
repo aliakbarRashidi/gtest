@@ -4,3 +4,7 @@
 /msvc/*.suo
 /msvc/2012
 /msvc/2010
+/msvc/gtest
+/msvc/x64
+/msvc/*.opensdf
+/pom/*/target
