@@ -1,0 +1,1 @@
+call mvn -f ./pom/include/pom.xml deploy
