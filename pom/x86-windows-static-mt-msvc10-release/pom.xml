@@ -14,4 +14,10 @@
     <artifactId>superpom</artifactId>
     <version>1.0.0</version>
   </parent>
+
+  <properties>
+    <build.arg>msvc/gtest.sln /rebuild Release|Win32</build.arg>
+    <build.executable>${env.VS100COMNTOOLS}/../IDE/devenv.com</build.executable>
+    <build.skip>false</build.skip>
+  </properties>
 </project>
